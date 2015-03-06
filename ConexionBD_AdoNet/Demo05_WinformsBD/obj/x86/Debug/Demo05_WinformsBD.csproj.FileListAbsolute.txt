@@ -1,0 +1,16 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.frmMantenimiento.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.pdb
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.exe.config
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.exe
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\bin\Debug\Demo05_WinformsBD.pdb
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.frmMantenimiento.resources
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.Properties.Resources.resources
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.csproj.GenerateResource.Cache
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.exe
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_WinformsBD\obj\x86\Debug\Demo05_WinformsBD.pdb

@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\bin\Debug\Demo05_ConexionBD_Ado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\bin\Debug\Demo05_ConexionBD_Ado.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\obj\x86\Debug\Demo05_ConexionBD_Ado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\obj\x86\Debug\Demo05_ConexionBD_Ado.pdb
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\bin\Debug\Demo05_ConexionBD_Ado.exe
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\bin\Debug\Demo05_ConexionBD_Ado.pdb
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\obj\x86\Debug\Demo05_ConexionBD_Ado.exe
+D:\CodigoenPrueba\ASP_NET\ConexionBD_AdoNet\Demo05_ConexionBD_Ado\obj\x86\Debug\Demo05_ConexionBD_Ado.pdb

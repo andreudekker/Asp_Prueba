@@ -1,0 +1,11 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\bin\Demo01_webSite.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\bin\Demo01_webSite.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\bin\Demo01_webSite.dll.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.csprojResolveAssemblyReference.cache
+D:\CodigoenPrueba\ASP_NET\asp.net_GV\Demo01\Demo01_webSite\bin\Demo01_webSite.dll
+D:\CodigoenPrueba\ASP_NET\asp.net_GV\Demo01\Demo01_webSite\bin\Demo01_webSite.pdb
+D:\CodigoenPrueba\ASP_NET\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.csprojResolveAssemblyReference.cache
+D:\CodigoenPrueba\ASP_NET\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.dll
+D:\CodigoenPrueba\ASP_NET\asp.net_GV\Demo01\Demo01_webSite\obj\Debug\Demo01_webSite.pdb
